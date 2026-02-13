@@ -1,5 +1,10 @@
-# Cucumber Java BDD Framework
+A scalable Behavior-Driven Development (BDD) test automation framework built using Cucumber, Selenium WebDriver, and Java.
 
-A Behavior-Driven Development (BDD) test automation framework using **Cucumber**, **Java**, and **Selenium WebDriver**.
+This framework follows industry best practices including Page Object Model (POM), reusable step definitions, modular test design, and structured reporting. It supports maintainable feature files written in Gherkin syntax and enables efficient UI test automation for real-world web applications.
 
-This project demonstrates how to write readable and maintainable automated tests using Gherkin syntax (`.feature` files) with Java step definitions and generate useful test reports.
+Key highlights:
+• Cucumber BDD integration with TestNG
+• Page Object Model design pattern
+• Data-driven testing support
+• Configurable test execution
+• Structured test reports generation
